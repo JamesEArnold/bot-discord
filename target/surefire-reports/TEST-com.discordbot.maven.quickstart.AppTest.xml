@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.discordbot.maven.quickstart.AppTest" time="0.023" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="Z:\Eclipse Workspace\quickstart\target\test-classes;Z:\Eclipse Workspace\quickstart\target\classes;C:\Users\j4mes\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\j4mes\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.vm.vendor" value="AdoptOpenJDK"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://adoptopenjdk.net/"/>
+    <property name="user.timezone" value="America/New_York"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\AdoptOpenJDK\jdk-11.0.5.10-hotspot\bin"/>
+    <property name="sun.java.command" value="C:\Users\j4mes\AppData\Local\Temp\surefire7835556950246139004\surefirebooter1150593963843913611.jar C:\Users\j4mes\AppData\Local\Temp\surefire7835556950246139004 2020-05-29T18-38-38_085-jvmRun1 surefire9437564099616895593tmp surefire_04942138625000668009tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="Z:\Eclipse Workspace\quickstart\target\test-classes;Z:\Eclipse Workspace\quickstart\target\classes;C:\Users\j4mes\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\j4mes\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\j4mes"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2019-10-15"/>
+    <property name="java.home" value="C:\Program Files\AdoptOpenJDK\jdk-11.0.5.10-hotspot"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="Z:\Eclipse Workspace\quickstart"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\j4mes\AppData\Local\Temp\surefire7835556950246139004\surefirebooter1150593963843913611.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.5+10"/>
+    <property name="user.name" value="James Arnold"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="AdoptOpenJDK"/>
+    <property name="localRepository" value="C:\Users\j4mes\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/AdoptOpenJDK/openjdk-build/issues"/>
+    <property name="java.io.tmpdir" value="C:\Users\j4mes\AppData\Local\Temp\"/>
+    <property name="java.version" value="11.0.5"/>
+    <property name="user.dir" value="Z:\Eclipse Workspace\quickstart"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\AdoptOpenJDK\jdk-11.0.5.10-hotspot\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/AdoptOpenJDK/jdk-11.0.5.10-hotspot/bin/client;C:/Program Files/AdoptOpenJDK/jdk-11.0.5.10-hotspot/bin;C:\Python27\;C:\Python27\Scripts;C:\Program Files\AdoptOpenJDK\jdk-11.0.5.10-hotspot\bin;C:\Program Files (x86)\Razer Chroma SDK\bin;C:\Program Files\Razer Chroma SDK\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\PuTTY\;C:\Users\j4mes\AppData\Local\Programs\Python\Python37;C:\Program Files\Git\cmd;C:\Users\j4mes\Desktop\HACKING\ObeyTheTestingGoat\geckodriver.exe;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Users\j4mes\AppData\Local\Programs\AdoptOpenJDK\bin;C:\Users\j4mes\AppData\Local\Programs\Python\Launcher\;C:\Users\j4mes\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\j4mes\AppData\Local\Programs\Python\Python37-32\;C:\Users\j4mes\AppData\Local\Microsoft\WindowsApps;Z:\Programs\Microsoft VS Code\bin;C:\Users\j4mes\AppData\Local\atom\bin;C:\Users\j4mes\AppData\Local\GitHubDesktop\bin;C:\Users\j4mes\AppData\Local\Microsoft\WindowsApps;C:\Users\j4mes\Desktop\HACKING\ObeyTheTestingGoat;C:\SQLite;C:\ffmpeg\bin;C:\Users\j4mes\AppData\Roaming\npm;C:\WINDOWS\system32;;."/>
+    <property name="java.vendor" value="AdoptOpenJDK"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vm.version" value="11.0.5+10"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="com.discordbot.maven.quickstart.AppTest" time="0.002"/>
+</testsuite>
