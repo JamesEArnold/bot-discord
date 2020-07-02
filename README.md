@@ -2,6 +2,10 @@
 
 In my spare time I've had a blast building a Discord bot for my server of friends.  It's built in Java, utilizing JDA, a full wrapper of the Discord REST api.  It's been a great way to challenge myself while building something I can enjoy at the same time.
 
+## Example of Features
+
+![](BotExample300.gif)
+
 ## Features
 
 ### Message/Command Clean Up
